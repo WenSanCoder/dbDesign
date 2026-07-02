@@ -1,0 +1,52 @@
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\bin\Debug\student.exe
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\bin\Debug\student.pdb
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\obj\Debug\student.exe
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\obj\Debug\student.pdb
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\obj\Debug\student.FrmLogin.resources
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\obj\Debug\student.frmMain.resources
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\obj\Debug\student.Properties.Resources.resources
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\obj\Debug\student.csproj.GenerateResource.Cache
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\bin\Debug\student.exe.config
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\obj\Debug\student.frmStudent.resources
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\obj\Debug\student.frmProcdure.resources
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\obj\Debug\student.frmCourse.resources
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\obj\Debug\student.frmDept.resources
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\obj\Debug\student.frmReport.resources
+C:\Documents and Settings\wulingzhi\My Documents\netDB\workplace\student\student\student\obj\Debug\student.frmDetail.resources
+C:\Documents and Settings\wulingzhi\桌面\20091102\student\student\bin\Debug\student.exe.config
+C:\Documents and Settings\wulingzhi\桌面\20091102\student\student\obj\Debug\student.exe
+C:\Documents and Settings\wulingzhi\桌面\20091102\student\student\obj\Debug\student.pdb
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\bin\Debug\student.exe.config
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\bin\Debug\student.exe
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\bin\Debug\student.pdb
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.csprojAssemblyReference.cache
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.frmCourse.resources
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.frmDept.resources
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.frmDetail.resources
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.FrmLogin.resources
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.frmMain.resources
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.frmProcdure.resources
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.frmReport.resources
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.frmStudent.resources
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.Properties.Resources.resources
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.csproj.GenerateResource.cache
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.csproj.CoreCompileInputs.cache
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.exe
+F:\杂七杂八\数据库助教\应用程序\C#开发的系统\源程序\student\obj\Debug\student.pdb
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\bin\Debug\student.exe.config
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\obj\Debug\student.exe
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\obj\Debug\student.pdb
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\bin\Debug\student.exe
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\bin\Debug\student.pdb
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\obj\Debug\student.csprojResolveAssemblyReference.cache
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\obj\Debug\student.frmCourse.resources
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\obj\Debug\student.frmDept.resources
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\obj\Debug\student.frmDetail.resources
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\obj\Debug\student.FrmLogin.resources
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\obj\Debug\student.frmMain.resources
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\obj\Debug\student.frmProcdure.resources
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\obj\Debug\student.frmReport.resources
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\obj\Debug\student.frmStudent.resources
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\obj\Debug\student.Properties.Resources.resources
+E:\教学工作\2021-2022(2)\数据库原理及应用\单元实验\opengauss-数据库书面作业及实验\opengauss第7章数据库应用系统开发\第7章数据库应用系统开发C#版（openGauss）\源程序\student\obj\Debug\student.csproj.GenerateResource.Cache
