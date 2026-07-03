@@ -1,0 +1,20 @@
+server:
+  port: 8088
+
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: rabbitmq
+    password: rabbitmq
+    virtual-host: /
+    listener:
+      simple:
+        acknowledge-mode: auto
+        prefetch: 1
+
+demo:
+  rabbitmq:
+    exchange: course.demo.direct
+    queue: course.demo.notice.queue
+    routing-key: course.notice
