@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  font-family: "Microsoft YaHei", "PingFang SC", Arial, sans-serif;
+  color: #222;
+  background: #f3f5f7;
+}
+
+.page {
+  padding: 18px 26px 28px;
+}
+
+.page-title {
+  margin: 0 0 14px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #1f2d3d;
+}
+
+.plain-panel {
+  background: #fff;
+  border: 1px solid #dcdfe6;
+  border-radius: 4px;
+  padding: 16px;
+  margin-bottom: 14px;
+}
+
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+
+.toolbar {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.status-text {
+  color: #606266;
+  font-size: 13px;
+}
+
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 12px;
+}
+
+.metric-item {
+  border: 1px solid #dcdfe6;
+  background: #fff;
+  border-radius: 4px;
+  padding: 14px;
+}
+
+.metric-label {
+  color: #606266;
+  font-size: 13px;
+}
+
+.metric-value {
+  margin-top: 8px;
+  font-size: 24px;
+  color: #123f6d;
+  font-weight: 600;
+}
+
+.schedule-grid {
+  display: grid;
+  grid-template-columns: 82px repeat(7, minmax(120px, 1fr));
+  border-top: 1px solid #dcdfe6;
+  border-left: 1px solid #dcdfe6;
+}
+
+.schedule-cell {
+  min-height: 64px;
+  border-right: 1px solid #dcdfe6;
+  border-bottom: 1px solid #dcdfe6;
+  background: #fff;
+  padding: 8px;
+  font-size: 13px;
+}
+
+.schedule-head {
+  background: #eef3f8;
+  font-weight: 600;
+  text-align: center;
+}
+
+.course-block {
+  border-left: 3px solid #0b88cf;
+  background: #f6fbff;
+  padding: 6px;
+  line-height: 1.5;
+}
